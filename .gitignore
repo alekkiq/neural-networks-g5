@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+env/
+requirements.txt/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and model outputs
+data/
+*.pt
+*.pth
+*.ckpt
+*.h5
+runs/
+lightning_logs/
+wandb/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
