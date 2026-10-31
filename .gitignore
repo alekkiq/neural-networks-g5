@@ -18,6 +18,7 @@ data/
 *.pth
 *.ckpt
 *.h5
+*.keras
 runs/
 lightning_logs/
 wandb/
