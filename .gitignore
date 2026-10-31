@@ -27,3 +27,6 @@ wandb/
 .DS_Store
 .vscode/
 .idea/
+
+# Claude
+.claude/
