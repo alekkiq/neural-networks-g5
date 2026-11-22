@@ -1,0 +1,13 @@
+Ääninäytteiden lähteet
+
+FLEURS, Conneau ym. 2022, Google. Lisenssi CC BY 4.0
+https://huggingface.co/datasets/google/fleurs
+https://creativecommons.org/licenses/by/4.0/
+Valitsimme dev osasta lauseet 1517 ja 1553 suomeksi ja englanniksi.
+
+Suomen kielen näytteitä, ladattava versio, Kotimaisten kielten keskus. Lisenssi CC BY 4.0
+http://urn.fi/urn:nbn:fi:lb-2020112937
+https://creativecommons.org/licenses/by/4.0/
+Leikkasimme äänitteistä alle 30 sekunnin pätkät. Vertailutekstinä käytämme aineiston yleiskielistystä.
+
+Muunsimme äänet 16 kHz WAV muotoon. Tiedosto naytteet.csv kertoo jokaisen näytteen alkuperän.
